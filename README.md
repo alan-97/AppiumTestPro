@@ -6,10 +6,13 @@ app多进程自动化框架
   - 官方地址：https://nodejs.org/en/download/
   - cmd下输入命令 node -v可以查看Node.js 的版本。
   - 安装好Node.js后对其做一些基本设置，均在cmd下输入命令即可
+
 1.1. 设置缓存
   - npm config set cache "D:\Program Files\nodejs\node_cache"
+
 1.2. 设置全局模块存放路径
   - npm config set prefix "D:\Program Files\nodejs
+
 1.3. 设置淘宝NPM镜像
   - npm config set registry "https://registry.npm.taobao.org"
   - npm install -g cnpm --registry=https://registry.npm.taobao.org
