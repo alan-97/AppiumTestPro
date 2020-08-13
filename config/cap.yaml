@@ -1,0 +1,31 @@
+Emulator_one:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  platformVersion: "5.1.1"
+  deviceName: "127.0.0.1:62001"
+  appActivity: "com.xxzb.fenwoo.activity.addition.WelcomeActivity"
+  appPackage: "com.xxzb.fenwoo"
+  noReset: "false"
+  udid: "127.0.0.1:62001"
+
+
+Emulator_two:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  platformVersion: "5.1.1"
+  deviceName: "127.0.0.1:62025"
+  appActivity: "com.xxzb.fenwoo.activity.addition.WelcomeActivity"
+  appPackage: "com.xxzb.fenwoo"
+  noReset: "false"
+  udid: "127.0.0.1:62025"
+
+
+Honor7X:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  platformVersion: "8.0"
+  deviceName: "A5RNW18201001895"
+  appActivity: "com.xxzb.fenwoo.activity.addition.WelcomeActivity"
+  appPackage: "com.xxzb.fenwoo"
+  noReset: "false"
+  udid: "A5RNW18201001895"
