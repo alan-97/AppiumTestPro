@@ -25,6 +25,7 @@ sdk环境配置：http://www.cnblogs.com/puresoul/p/4597211.html
   - 输入命令：npm install -g cnpm --registry=https://registry.npm.taobao.org
   - 再输入命令：cnpm install -g appium
   - 安装完成后检验appium是否成功安装输入：appium
+  
 4.安装Appium-doctor
   - appium-doctor可以检测Appium整体依赖环境配置情况。在cmd下输入以下命令就可以安装
   - cnpm install appium-doctor -g
